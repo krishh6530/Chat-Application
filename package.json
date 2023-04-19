@@ -1,0 +1,24 @@
+{
+    "name": "talk-a-tive",
+    "version": "1.0.0",
+    "description": "This is Chat Application",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon backend/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/krishh6530/Chat-Application.git"
+    },
+    "author": "Krishnakant Ransing",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/krishh6530/Chat-Application/issues"
+    },
+    "homepage": "https://github.com/krishh6530/Chat-Application#readme",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "nodemon": "^2.0.22"
+    }
+}
